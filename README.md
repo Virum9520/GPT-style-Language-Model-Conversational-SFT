@@ -1,6 +1,4 @@
-# EECS 595 HW3: GPT Implementation
-
-Welcome to the GPT homework! This directory contains a modular implementation of a GPT-style language model that you'll build step by step. The code is organized into three main files to help you learn each component systematically.
+GPT Implementation
 
 ## 📁 File Structure
 
